@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from stats import get_book_text
 from stats import get_word_counts
 from stats import count_characters
